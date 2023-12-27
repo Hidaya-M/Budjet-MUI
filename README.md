@@ -1,6 +1,6 @@
 # Budget Tracker
 
-A modern and easy-to-use budget tracker website built with React and React MUI.
+A budget tracker website built with React and React MUI and JSON Server.
 
 ## Getting Started
 
