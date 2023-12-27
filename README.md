@@ -8,6 +8,7 @@ To get started with the Budget Tracker website, simply clone the repository and 
 
 ```bash
  npm install
+ json-server --watch data/db.json --port 3100
  npm start
 ```
 This will install the necessary dependencies and start the development server.
