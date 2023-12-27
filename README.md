@@ -14,4 +14,4 @@ This will install the necessary dependencies and start the development server.
 
 ## Live Demo
 
-You can view a live demo of the Budget Tracker website at budjet-tracker.netlify.app
+You can view a live demo of the Budget Tracker website at https://budjet-tracker.netlify.app/
